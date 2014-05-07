@@ -2,6 +2,9 @@
 Changelog for package std_srvs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.10.2 (2014-05-07)
+-------------------
+
 1.10.1 (2014-02-11)
 -------------------
 * move from ros_comm to separate repository (`#355 <https://github.com/ros/ros_comm/issues/355>`_)
